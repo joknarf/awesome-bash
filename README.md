@@ -56,10 +56,13 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
+- [complete-ng](https://github.com/joknarf/complete-ng) - bash nextgen auto completion interactive menu
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
+- [redo](https://github.com/joknarf/redo) - bash history interactive menu/search
+- [seedee](https://github.com/joknarf/seedee) - cd history interactive menu/search
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
@@ -82,6 +85,8 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
+- [nerdp](https://github.com/joknarf/nerdp) - Cool customizable nerd prompt
+- [thefly](https://github.com/joknarf/thefly) - teleportable shell plugin manager
 
 ## Data
 
